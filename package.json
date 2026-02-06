@@ -1,0 +1,20 @@
+{
+  "name": "card-business-site",
+  "version": "1.0.0",
+  "description": "Simple marketing site with admin panel and email order handling for a card business.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "cors": "*",
+    "dotenv": "*",
+    "express": "*",
+    "jsonwebtoken": "*",
+    "nodemailer": "*"
+  },
+  "devDependencies": {
+    "nodemon": "*"
+  }
+}

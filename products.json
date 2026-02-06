@@ -1,0 +1,30 @@
+[
+  {
+    "id": "birthday-sparkle",
+    "name": "Birthday Sparkle",
+    "description": "Playful, colourful birthday card with hand-lettered message.",
+    "price": 199,
+    "category": "birthday"
+  },
+  {
+    "id": "elegant-wedding-invite",
+    "name": "Elegant Wedding Invite",
+    "description": "Minimal, timeless design with premium textured paper.",
+    "price": 249,
+    "category": "wedding"
+  },
+  {
+    "id": "thank-you-notes",
+    "name": "Thank You Notes",
+    "description": "Simple and warm thank-you cards for any occasion.",
+    "price": 149,
+    "category": "thankyou"
+  },
+  {
+    "id": "custom-design",
+    "name": "Custom Design",
+    "description": "Have an idea? We’ll turn it into a one-of-a-kind card.",
+    "price": null,
+    "category": "custom"
+  }
+]
